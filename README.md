@@ -1,4 +1,4 @@
-# Key pair generate
+# UUID-generator
 
 This api is pretty simple. It just generates a unique id and returns a key value pair json object of timestamp and uuid.
 
